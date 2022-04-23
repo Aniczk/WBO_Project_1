@@ -1,18 +1,18 @@
 ## Usage:
-
-python ./projekt1.py -i .fa_input_file -t input_tree -d time
-
+```
+python ./projekt1.py -i <.fa input file> -t <input tree> -d <time>
+```
 ## Default:
--i PAH.fa 
--t tree
--d 100000
+-i PAH.fa <br />
+-t tree <br />
+-d 100000 <br />
 
 ## Output:
-bialka.fa
-nj_tree.xml
-upgma_tree.xml
-bialka_aligned.aln
-bialka.dnd
+bialka.fa <br />
+nj_tree.xml <br />
+upgma_tree.xml <br />
+bialka_aligned.aln <br />
+bialka.dnd <br />
 
 ## Main problem:
 Simulate and reconstruct the evolution of the sequence according to the phylogenetic tree contained in the input file.
