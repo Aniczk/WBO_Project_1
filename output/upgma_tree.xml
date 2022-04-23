@@ -1,0 +1,40 @@
+<phyloxml xmlns="http://www.phyloxml.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="true">
+    <clade>
+      <name>Inner4</name>
+      <branch_length>0</branch_length>
+      <clade>
+        <name>C</name>
+        <branch_length>0.5668664119310783</branch_length>
+      </clade>
+      <clade>
+        <name>Inner3</name>
+        <branch_length>0.0197691416504171</branch_length>
+        <clade>
+          <name>Inner2</name>
+          <branch_length>0.010216338841256944</branch_length>
+          <clade>
+            <name>B</name>
+            <branch_length>0.5470972702806612</branch_length>
+          </clade>
+          <clade>
+            <name>A</name>
+            <branch_length>0.5470972702806612</branch_length>
+          </clade>
+        </clade>
+        <clade>
+          <name>Inner1</name>
+          <branch_length>0.044089182828647044</branch_length>
+          <clade>
+            <name>E</name>
+            <branch_length>0.5132244262932711</branch_length>
+          </clade>
+          <clade>
+            <name>D</name>
+            <branch_length>0.5132244262932711</branch_length>
+          </clade>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>
