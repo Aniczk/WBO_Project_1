@@ -1,6 +1,6 @@
 ## Usage:
 
-python ./projekt1.py -i <.fa input file> -t <input tree> -d <time>
+python ./projekt1.py -i .fa_input_file -t input_tree -d time
 
 ## Default:
 -i PAH.fa 
